@@ -1,0 +1,5 @@
+%{
+  "html_entities": {:hex, :html_entities, "0.4.0", "f2fee876858cf6aaa9db608820a3209e45a087c5177332799592142b50e89a6b", [:mix], [], "hexpm", "3e3d7156a272950373ce5a4018b1490bea26676f8d6a7d409f6fac8568b8cb9a"},
+  "pdf_generator": {:hex, :pdf_generator, "0.6.0", "7dd577b96c06eabc7ca861ff85ac3fa991abea8ff3059bffb1f7c170d4a00f2c", [:mix], [], "hexpm", "250e9b3c1bff4e26c30f2ce542f1851120a897543d524c613d1c440300c025f7"},
+  "sneeze": {:hex, :sneeze, "1.2.0", "cee8ce5b4b03db4036a2184379740899c94080e6d36ca07fcb35301db827a0f0", [:make, :mix], [{:html_entities, "0.4.0", [hex: :html_entities, repo: "hexpm", optional: false]}], "hexpm", "6d080268c1231d728267f9c362a8cd793368431c4c5ab76c2e059ff00c98a602"},
+}
